@@ -9,6 +9,6 @@ module.exports = [
   },
   {
     id: 3,
-    task: 'Wash the dishes',
+    task: 'Wash the ',
   },
 ];
